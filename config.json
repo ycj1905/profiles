@@ -1,23 +1,25 @@
 {
-  "username": "johndoe91",
-  "name": "John Doe",
+  "username": "ycj1905",
+  "name": "Matt Jhou",
   "projects": [
-    "http://github.com/john91doe/profiles",
-    "http://github.com/john91doe/i-learn-css-flexbox",
-    "http://github.com/john91doe/my-webpage"
+    "https://github.com/ycj1905/profiles",
+    "https://github.com/ycj1905/OpenCV-ROI-Test",
+    "https://github.com/ycj1905/Meal-Order",
+    "https://github.com/ycj1905/Dawisdom_POS_system",
+    "https://github.com/ycj1905/Slicer"
   ],
   "background":[
-    "A graduate student from NTUT Interaction Design Dept",
     "Front-end",
-    "Javascript 1 year",
-    "HTML 2 months",
-    "CSS 3 months",
-    "SASS 2 months"
+    "Angular : familiar",
+    "Raspberry Pi/ Beagle bone",
+    "POS system (LAMP)",
+    "3d printer",
+    "My online profile: https://www.cakeresume.com/matt-jhou"
   ],
   "interests":[
-    "JavaScript (how to build web, desktop and mobile apps)",
-    "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)"
+    "moder F2E",
+    "New Tech: AI, Block chain ..."
   ],
-  "twitter": "http://twitter.com/johndoe91",
-  "github": "http://github.com/john91doe"
+  "instagram": "https://www.instagram.com/ycj_matt/?hl=zh-tw",
+  "github": "https://github.com/ycj1905"
 }
